@@ -1,0 +1,12 @@
+---
+layout: post
+current: post
+cover: assets/images/equipe.jpeg
+navigation: True
+title: Se Inscreva
+date: 2019-10-18 15:30:00
+tags:
+class: post-template
+subclass: 'post'
+---
+
