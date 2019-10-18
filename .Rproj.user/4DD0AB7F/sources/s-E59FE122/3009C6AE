@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571422056633.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2038143800",
+    "id" : "3009C6AE",
+    "lastKnownWriteTime" : 1571422185,
+    "last_content_update" : 1571422185188,
+    "path" : "~/GitHub/projects/desafiosdamatematica.github.io/_config.yml",
+    "project_path" : "_config.yml",
+    "properties" : {
+        "cursorPosition" : "77,1",
+        "scrollLine" : "64"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
