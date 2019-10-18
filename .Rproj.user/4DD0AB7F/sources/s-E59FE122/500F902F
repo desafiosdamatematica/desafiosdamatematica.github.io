@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571437750204.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1866344990",
+    "id" : "500F902F",
+    "lastKnownWriteTime" : 1571437783,
+    "last_content_update" : 1571437783901,
+    "path" : "~/GitHub/projects/desafiosdamatematica.github.io/_includes/navigation.html",
+    "project_path" : "_includes/navigation.html",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}
